@@ -5,7 +5,7 @@
 <h3>find me here</h3>
 <div>
     <div class="row">
-        <a href='mailto:behzad.azadi2693@gmail.com'>
+        <a href='mailto:behzad.azadi.tapeh.esmaeil@gmail.com'>
             <img alt="Discord" src="https://img.shields.io/badge/GMAIL-ab373c.svg?style=for-the-badge&logo=gmail&logoColor=orange">
         </a>
         <a href='https://telegram.me/behzad_azadi'>
